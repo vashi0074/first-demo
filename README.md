@@ -2,4 +2,4 @@
 this is my first reposetry
 <br>
 
-Author vashi gavali
+Author vashi vasshi
